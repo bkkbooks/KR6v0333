@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0333/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0333/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 辨法法性論
+  identifiers:
+    krp: KR6v0333
+    cbeta: B09n0034
+    cbeta_old_id: B09n0034
+    authorityid: CA0006118
+    json_key: B0034
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0034.xml
+    old_id: B09n0034
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0333_000-B.yaml, hash: 'sha256:48222117d08ca2f599028ea371ab79ad55935a03623b32fd115011039a9c3a4b'}
+  - {seq: 1, filename: KR6v0333_001-B.yaml, hash: 'sha256:dc9f2d986a6f4704314f31d9a9e1a9030e3a8d4f7eebb478ec0e04e8e13440f2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0333_000-B.markers.yaml, hash: 'sha256:ac0a78466b6271a9c75372b8fe1f1149aa5417804b2705a5126160535a7542a7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0333_001-B.markers.yaml, hash: 'sha256:b68fad3906184de68744255eb1f6b37c3413179c46acd48d6c51113945378915'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0333_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 1506
+  label: 辨法法性論
+  type: juan
+  level: 1
+hash: sha256:3215e9b73746ac5675a6cc68cf303b60f9d1e4dcf2bcd868bd3058dd6c9b9ee9

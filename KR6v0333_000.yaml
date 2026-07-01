@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0333/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 辨法法性論
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0034.xml
+    old_id: B09n0034
+hash: sha256:48222117d08ca2f599028ea371ab79ad55935a03623b32fd115011039a9c3a4b

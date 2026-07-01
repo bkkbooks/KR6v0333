@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6v0333/v1
+canonical_location: https://kanripo.org/bkk/KR6v0333/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 辨法法性論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0034.xml
+    old_id: B09n0034
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0333_000.yaml, hash: 'sha256:48222117d08ca2f599028ea371ab79ad55935a03623b32fd115011039a9c3a4b'}
+  - {seq: 1, filename: KR6v0333_001.yaml, hash: 'sha256:f7b039ec470cd4bb9303c338a7b18d3df03664cff28d70ea63ec6197375fbeb1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0333_001.markers.yaml, hash: 'sha256:d5c96beeaa6c320f08dd4d8878d1a9dad368f4f745d138a811bbdf5bc9ca7534'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0333_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 1506
+  label: 辨法法性論
+  type: juan
+  level: 1
+hash: sha256:1f31a7d2e045ab7e3588698b2c2bfbbf351365863dfe4d5cc49e470ebd80454f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
