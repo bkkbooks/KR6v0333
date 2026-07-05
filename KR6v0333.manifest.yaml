@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0333_000.yaml, hash: 'sha256:48222117d08ca2f599028ea371ab79ad55935a03623b32fd115011039a9c3a4b'}
-  - {seq: 1, filename: KR6v0333_001.yaml, hash: 'sha256:f7b039ec470cd4bb9303c338a7b18d3df03664cff28d70ea63ec6197375fbeb1'}
+  - {seq: 1, filename: KR6v0333_001.yaml, hash: 'sha256:dc9f2d986a6f4704314f31d9a9e1a9030e3a8d4f7eebb478ec0e04e8e13440f2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0333_001.markers.yaml, hash: 'sha256:d5c96beeaa6c320f08dd4d8878d1a9dad368f4f745d138a811bbdf5bc9ca7534'}
+  - {seq: 0, role: markers, filename: assets/KR6v0333_000.markers.yaml, hash: 'sha256:8e5f000dc9418642162521384ac30a122bec5da12fc8f40feef43735689a24cd'}
+  - {seq: 1, role: markers, filename: assets/KR6v0333_001.markers.yaml, hash: 'sha256:30f8bafdf4c9f04bb9826e41b5d6ad50972f1cdab434d1c31efecb5f1e5a7f7f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +34,4 @@ table_of_contents:
   label: 辨法法性論
   type: juan
   level: 1
-hash: sha256:1f31a7d2e045ab7e3588698b2c2bfbbf351365863dfe4d5cc49e470ebd80454f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2a575a92848c0c7c9b267b566c5cca2427bcf841329bfb603a15e0997c6270b4
